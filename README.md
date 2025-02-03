@@ -1,1 +1,9 @@
-# cortex-xsoar-contributions
+# Cortex XSOAR (formerly Demisto) Public Contributions
+
+-> I had involvement in the development of these market-leading security product integrations within XSOAR. I have linked code samples (at specific commits) for which I had majority contribution.
+
+| Name                                      | Links                                                                                                                                                                                                                             |
+|-------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Google Chronicle SIEM**                  | [Python](https://github.com/demisto/content/pull/18899/commits/e5af8a68bb286ee273a264e53bbd8b1def301699#diff-e8b162d5a86bd12793ab9857a297fee64340857f6f9c7b3ac48d1582dd9ba4f9) \| [Python Tests](https://github.com/demisto/content/pull/18899/commits/e5af8a68bb286ee273a264e53bbd8b1def301699#diff-8dbe380955b8f572015babd15f2b428ccb0380f24e9f9a10af22ffe3b0dfa4df)
+| **Flashpoint Threat Intelligence**          | [Python](https://github.com/demisto/content/blob/a3f8f071020fd8b42523c6f7bf31c66f8769fc61/Packs/Flashpoint/Integrations/Flashpoint/Flashpoint.py) \| [Python Tests](https://github.com/demisto/content/blob/a3f8f071020fd8b42523c6f7bf31c66f8769fc61/Packs/Flashpoint/Integrations/Flashpoint/Flashpoint_test.py) 
+| **Cofense Triage**          | [Python](https://github.com/demisto/content/blob/aa5097a1135b6b6bd1aab12c7431969b9ccf5e18/Packs/CofenseTriage/Integrations/CofenseTriagev3/CofenseTriagev3.py) \| [Python Tests](https://github.com/demisto/content/blob/aa5097a1135b6b6bd1aab12c7431969b9ccf5e18/Packs/CofenseTriage/Integrations/CofenseTriagev3/CofenseTriagev3_test.py) \| [Playbook](https://github.com/demisto/content/tree/a3f8f071020fd8b42523c6f7bf31c66f8769fc61/Packs/CofenseTriage/Playbooks)  
